@@ -1,0 +1,15 @@
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\bin\Debug\netcoreapp2.0\Wool.Test.Glossary.App.deps.json
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\bin\Debug\netcoreapp2.0\Wool.Test.Glossary.App.runtimeconfig.json
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\bin\Debug\netcoreapp2.0\Wool.Test.Glossary.App.runtimeconfig.dev.json
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\bin\Debug\netcoreapp2.0\Wool.Test.Glossary.App.dll
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\bin\Debug\netcoreapp2.0\Wool.Test.Glossary.App.pdb
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\bin\Debug\netcoreapp2.0\Wool.Test.Glossary.Data.dll
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\bin\Debug\netcoreapp2.0\Wool.Test.Glossary.Domain.dll
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\bin\Debug\netcoreapp2.0\Wool.Test.Glossary.Data.pdb
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\bin\Debug\netcoreapp2.0\Wool.Test.Glossary.Domain.pdb
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\obj\Debug\netcoreapp2.0\Wool.Test.Glossary.App.csprojResolveAssemblyReference.cache
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\obj\Debug\netcoreapp2.0\Wool.Test.Glossary.App.csproj.CoreCompileInputs.cache
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\obj\Debug\netcoreapp2.0\Wool.Test.Glossary.App.AssemblyInfoInputs.cache
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\obj\Debug\netcoreapp2.0\Wool.Test.Glossary.App.AssemblyInfo.cs
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\obj\Debug\netcoreapp2.0\Wool.Test.Glossary.App.dll
+F:\@Code\Wool\Part B\Wool.Test.Glossary.App\obj\Debug\netcoreapp2.0\Wool.Test.Glossary.App.pdb

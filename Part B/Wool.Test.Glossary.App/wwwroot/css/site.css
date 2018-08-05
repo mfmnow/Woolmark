@@ -1,0 +1,41 @@
+﻿body {
+    padding-top: 74px;
+}
+
+.wool-logo {
+    width : 100px; 
+    height : 30px;
+}
+
+.navbar-brand {
+    font-size: 1rem;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 90px;
+    }
+    .wool-logo {
+        width: 150px;
+        height: 45px;
+    }
+    .navbar-brand {
+        font-size: 1.25rem;
+    }
+    .desktop-padding-10 {
+        padding:10px;
+    }
+}
+
+.padding-top-10 {
+    padding-top:10px;
+}
+
+.margin-10 {
+    margin:10px;
+}
+
+.tab-content {
+    min-height: 200px;
+    padding: 20px;
+}

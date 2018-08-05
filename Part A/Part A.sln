@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wool.Test.LinkedList.Domain", "Wool.Test.LinkedList.Domain\Wool.Test.LinkedList.Domain.csproj", "{E56CD2B8-8538-465C-A7D1-4EB3B7CF3FBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wool.Test.LinkedList.App", "Wool.Test.LinkedList.App\Wool.Test.LinkedList.App.csproj", "{789D664B-82F2-4B1E-A76B-781D3F569138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wool.Test.LinkedList.UnitTests", "Wool.Test.LinkedList.UnitTests\Wool.Test.LinkedList.UnitTests.csproj", "{87AF95BF-4AD4-4133-9DB3-2BE132CC9956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wool.Test.ReverseWords.App", "Wool.Test.ReverseWords.App\Wool.Test.ReverseWords.App.csproj", "{2C12EA3D-0802-4073-89A3-BEE1C1B55706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wool.Test.ReverseWords.Domain", "Wool.Test.ReverseWords.Domain\Wool.Test.ReverseWords.Domain.csproj", "{6FF23EA5-AE60-455F-B0EE-6AEC026A7C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wool.Test.ReverseWords.UnitTests", "Wool.Test.ReverseWords.UnitTests\Wool.Test.ReverseWords.UnitTests.csproj", "{569C4204-D5D8-4224-93BB-7FC308DA4993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E56CD2B8-8538-465C-A7D1-4EB3B7CF3FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56CD2B8-8538-465C-A7D1-4EB3B7CF3FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56CD2B8-8538-465C-A7D1-4EB3B7CF3FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56CD2B8-8538-465C-A7D1-4EB3B7CF3FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789D664B-82F2-4B1E-A76B-781D3F569138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789D664B-82F2-4B1E-A76B-781D3F569138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789D664B-82F2-4B1E-A76B-781D3F569138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789D664B-82F2-4B1E-A76B-781D3F569138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AF95BF-4AD4-4133-9DB3-2BE132CC9956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AF95BF-4AD4-4133-9DB3-2BE132CC9956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AF95BF-4AD4-4133-9DB3-2BE132CC9956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AF95BF-4AD4-4133-9DB3-2BE132CC9956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C12EA3D-0802-4073-89A3-BEE1C1B55706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C12EA3D-0802-4073-89A3-BEE1C1B55706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C12EA3D-0802-4073-89A3-BEE1C1B55706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C12EA3D-0802-4073-89A3-BEE1C1B55706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF23EA5-AE60-455F-B0EE-6AEC026A7C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF23EA5-AE60-455F-B0EE-6AEC026A7C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF23EA5-AE60-455F-B0EE-6AEC026A7C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF23EA5-AE60-455F-B0EE-6AEC026A7C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569C4204-D5D8-4224-93BB-7FC308DA4993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569C4204-D5D8-4224-93BB-7FC308DA4993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569C4204-D5D8-4224-93BB-7FC308DA4993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569C4204-D5D8-4224-93BB-7FC308DA4993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF64D33C-A6E6-4458-A9DD-A6F8530D8CEC}
+	EndGlobalSection
+EndGlobal
